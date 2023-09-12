@@ -1,0 +1,23 @@
+body{
+    
+}
+h1{ /* Настройка заголовка: цвет и размещение*/
+    text-align: center;
+    color: #0c0808;
+    font-size: 30px ;
+}
+.read{ /* Выравнивание первого текста по левой стороне*/
+    text-align: left;
+}
+.not{ /*Выравнивание второго текста по центру */
+    text-align: center;
+}
+.friend{ /*выравнивание третьего текста по правой стороне*/
+    text-align: right;
+}
+.signature{ /*Выравнивание подписи*/
+    text-align: right;
+    color: #0c0808;
+    font-size: 18px ;
+    font-weight: 600;
+}
